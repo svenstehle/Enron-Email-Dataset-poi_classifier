@@ -15,5 +15,5 @@ Follow final_project/poi_id.py
 * tried out oversampling techniques and with borderlineSMOTE I found a gem for this dataset
 * second upload: f1 score of 0.977 
 
-Really had a lot of fun and learned a lot while working on this dataset! Comments welcome
+Really had a lot of fun and learned a lot while working on this dataset! Comments welcome. 
 Done with spyder 3.3.1
