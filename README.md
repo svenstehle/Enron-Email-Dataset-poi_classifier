@@ -1,9 +1,12 @@
 # From Udacity: Intro to Machine Learning
-* Final project on enron data POIs need to be predicted 
+Final project on enron case data
+
+### Probelm statement:
+* Persons Of Interest (POIs) in the enron case need to be identified/predicted 
 * Dataset is small with a little over 100 records
 * We have an imbalanced classification problem at hand, POIs make up only a small part of the dataset.
 
-## Install and use:
+### Install and use:
 * Clone repo
 * Follow final_project/poi_id.py 
 
