@@ -3,8 +3,9 @@
 * Dataset is small with a little over 100 records
 * We have an imbalanced classification problem at hand, POIs make up only a small part of the dataset.
 
-## Steps to take:
-Follow final_project/poi_id.py 
+## Install and use:
+* Clone repo
+* Follow final_project/poi_id.py 
 
 ### Approach:
 * Applied standard techniques including model selection, outlier removals, gridsearch etc. with cross validation
@@ -14,6 +15,15 @@ Follow final_project/poi_id.py
 **Update:** 
 * tried out oversampling techniques and with borderlineSMOTE I found a gem for this dataset
 * second upload: f1 score of 0.977 
+
+### Possible improvements:
+* Use the whole Enron Email Corpus as well and incorporate text classification based on email content
+
+### Thoughts and lessons learned:
+* Machine learning pipeline with an imbalanced dataset
+* Parameter Tuning / GridSearch
+* Effect of outlier removals
+* Statistical oversampling methods
 
 Really had a lot of fun and learned a lot while working on this dataset! Comments welcome. 
 Done with spyder 3.3.1
