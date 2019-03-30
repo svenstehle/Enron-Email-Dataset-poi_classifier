@@ -8,7 +8,9 @@ Final project on enron case data
 
 ### Install and use:
 * Clone repo
-* Follow final_project/poi_id.py 
+* Follow final_project/poi_id.py
+* Change relevant system paths to your local paths, e.g: "E:/datasets/Enron Data/final_project/final_project_dataset.pkl" needs to be changed to point to the correct .pkl file location on your system
+* If you want to use the whole Enron Email Corpus you will have to redownload it and extract it to the email folder. GitHub truncated the emails we are many thousand emails short of the original corpus. See: [Enron Email Dataset](https://www.cs.cmu.edu/~./enron/)
 
 ### Approach:
 * Applied standard techniques including model selection, outlier removals, gridsearch etc. with cross validation
